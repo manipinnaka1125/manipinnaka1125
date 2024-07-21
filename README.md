@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=manipinnaka1125&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
   <a href="https://linkedin.com/in/maniswaroop-pinnaka-6a09a5257/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 </p>
 🌱 Currently Learning: Java Full Stack Development (Spring, Spring Boot), Linux Basics
